@@ -1,0 +1,21 @@
+{
+  "name": "learn-to-build-a-polynomial-regression-model-from-scratch",
+  "version": "1.0.0",
+  "description": "The objective of this project is to predict the points scored by a sports team in the NBA using polynomial regression. The dataset used in this project includes various attributes such as team name, points scored, average number of weightlifting sessions, average number of yoga sessions, average number of laps run per practice, water intake, and number of players absent for sessions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiemachris12/Learn-to-build-a-Polynomial-Regression-Model-From-Scratch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiemachris12/Learn-to-build-a-Polynomial-Regression-Model-From-Scratch/issues"
+  },
+  "homepage": "https://github.com/asiemachris12/Learn-to-build-a-Polynomial-Regression-Model-From-Scratch#readme"
+}

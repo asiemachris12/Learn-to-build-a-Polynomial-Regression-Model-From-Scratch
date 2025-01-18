@@ -12,3 +12,4 @@ tqdm==4.62.3
 xgboost==1.5.2
 ipywidgets==7.7.0
 lightgbm==3.3.2
+npm
